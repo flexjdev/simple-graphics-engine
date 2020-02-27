@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EPQEngine", "EPQEngine.vbproj", "{EB127AA7-CE30-4AB3-AE7F-B0626DBAE983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB127AA7-CE30-4AB3-AE7F-B0626DBAE983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB127AA7-CE30-4AB3-AE7F-B0626DBAE983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB127AA7-CE30-4AB3-AE7F-B0626DBAE983}.Debug|x86.ActiveCfg = Debug|x86
+		{EB127AA7-CE30-4AB3-AE7F-B0626DBAE983}.Debug|x86.Build.0 = Debug|x86
+		{EB127AA7-CE30-4AB3-AE7F-B0626DBAE983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB127AA7-CE30-4AB3-AE7F-B0626DBAE983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB127AA7-CE30-4AB3-AE7F-B0626DBAE983}.Release|x86.ActiveCfg = Release|x86
+		{EB127AA7-CE30-4AB3-AE7F-B0626DBAE983}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78D9003C-B105-4981-823E-699E19EA4900}
+	EndGlobalSection
+EndGlobal

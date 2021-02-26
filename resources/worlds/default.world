@@ -1,0 +1,22 @@
+default
+5
+rainbowcube
+0 0 -10
+0 0 0
+1 1 1
+texturecube
+0 0 10
+0 0 0
+1 1 1
+facecube
+2 0 10
+0 0 0
+1 1 1
+rainbowcube
+-2 0 10
+0 0 0
+1 1 1
+beancube
+0 0 0
+0 0 0
+1 1 1

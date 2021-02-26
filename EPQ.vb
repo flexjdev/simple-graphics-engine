@@ -214,9 +214,9 @@ Public Class EPQ
     End Sub
 
     Private Sub Form_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-        Load_Textures("Media/Textures/")
-        Load_Models("Media/Models/")
-        Load_Worlds("Media/Worlds/")
+        Load_Textures("../../resources/Textures/")
+        Load_Models("../../resources/Models/")
+        Load_Worlds("../../resources/Worlds/")
 
         Last_Update = Now
 
